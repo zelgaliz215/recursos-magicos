@@ -1,8 +1,9 @@
-# ¡Bienvenido a mi sitio!
-Este es un sitio web generado automáticamente con Jekyll y alojado en GitHub Pages.
+# Recursos Mágico
+Este es un sitio para los recursos coleccionados
 ## Secciones
 - [Acerca de](#acerca-de)
-- [Proyectos](#proyectos)
+- [Python](#acerca-de)
+- [Javascript](#proyectos)
 - [Contacto](#contacto)
 ### Acerca de
 Soy un apasionado del desarrollo web.
